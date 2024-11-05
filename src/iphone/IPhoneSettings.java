@@ -8,7 +8,7 @@ public class IPhoneSettings {
 
     private IPhoneSettings() {
         setBrightness(brightness);
-
+        setVolumeLevel(volumeLevel);
 
     }
 

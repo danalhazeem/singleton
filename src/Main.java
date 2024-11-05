@@ -12,6 +12,7 @@ public class Main {
 
                 settings.disableWiFi();
 
+
                 settings.enableWiFi();
 
                 settings.setVolumeLevel(80);
